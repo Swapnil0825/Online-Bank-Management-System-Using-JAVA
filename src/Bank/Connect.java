@@ -9,9 +9,9 @@ public class Connect {
     {
         Connection conn = null;
         try {
-            String url = "jdbc:mysql://localhost:3306/swapnil";
-            String user="root";
-            String pass="Swapnil@12120131";
+            String url = " ";
+            String user=" ";
+            String pass=" ";
             
             conn = DriverManager.getConnection(url,user,pass);
 
